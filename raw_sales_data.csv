@@ -1,0 +1,26 @@
+order_id,customer_name,customer_email,product,category,quantity,unit_price,order_date,region
+1001,John Smith,john.smith@email.com,Wireless Mouse,Electronics,2,19.99,2024-01-05,North
+1002,Jane Doe,jane.doe@email.com,USB-C Cable,Electronics,3,9.99,01/06/2024,South
+1003,John Smith,john.smith@email.com,Wireless Mouse,Electronics,2,19.99,2024-01-05,North
+1004,Mike Johnson,mike.j@email.com,Office Chair,Furniture,1,149.99,2024-01-07,East
+1005,Sara Lee,,Desk Lamp,Furniture,1,24.5,2024-01-08,West
+1006,Tom Brown,tom.brown@email.com,Notebook Set,Stationery,5,4.99,2024/01/09,North
+1007,Emily Davis,emily.d@email.com,Bluetooth Speaker,Electronics,,39.99,2024-01-10,South
+1008,Chris Wilson,chris.w@email.com,Office Chair,Furniture,2,149.99,2024-01-11,East
+1009,Anna Taylor,anna.t@email.com,Desk Lamp,Furniture,1,24.5,2024-01-12,West
+1010,John Smith,john.smith@email.com,USB-C Cable,Electronics,4,9.99,2024-01-13,North
+1011,Laura Clark,laura.c@email.com,Notebook Set,Stationery,10,4.99,2024-01-14,South
+1012,David Lewis,david.l@email.com,Wireless Mouse,electronics,1,19.99,2024-01-15,East
+1013,Sara Lee,sara.lee@email.com,Desk Lamp,Furniture,2,24.5,2024-01-16,West
+1014,Mike Johnson,mike.j@email.com,Bluetooth Speaker,Electronics,1,-39.99,2024-01-17,East
+1015,Emily Davis,emily.d@email.com,Office Chair,furniture,1,149.99,2024-01-18,South
+1016,Kevin Moore,kevin.m@email.com,USB-C Cable,Electronics,6,9.99,2024-01-19,North
+1017,Anna Taylor,anna.t@email.com,Notebook Set,Stationery,3,4.99,2024-01-20,West
+1018,Tom Brown,tom.brown@email.com,Wireless Mouse,Electronics,2,19.99,2024-01-20,North
+1019,Chris Wilson,chris.w@email.com,Desk Lamp,Furniture,,24.5,2024-01-21,East
+1020,Laura Clark,laura.c@email.com,Bluetooth Speaker,Electronics,2,39.99,2024-01-22,South
+1021,Kevin Moore,kevin.m@email.com,Office Chair,Furniture,1,149.99,2024-01-23,North
+1022,David Lewis,david.l@email.com,Notebook Set,Stationery,8,4.99,2024-01-24,East
+1023,Jane Doe,jane.doe@email.com,Desk Lamp,Furniture,1,24.5,2024-01-25,South
+1024,John Smith,john.smith@email.com,Wireless Mouse,Electronics,2,19.99,2024-01-05,North
+1025,,mystery.buyer@email.com,USB-C Cable,Electronics,2,9.99,2024-01-26,West
